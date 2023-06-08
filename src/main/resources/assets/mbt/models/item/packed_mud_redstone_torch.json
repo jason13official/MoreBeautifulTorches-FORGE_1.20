@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mbt:block/packed_mud_redstone_torch"
+  }
+}

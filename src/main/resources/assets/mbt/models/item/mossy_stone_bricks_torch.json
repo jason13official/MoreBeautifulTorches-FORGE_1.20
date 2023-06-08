@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mbt:block/mossy_stone_bricks_torch"
+  }
+}

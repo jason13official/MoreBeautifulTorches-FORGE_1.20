@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mbt:block/spruce_planks_redstone_torch_off"
+    },
+    "lit=true": {
+      "model": "mbt:block/spruce_planks_redstone_torch"
+    }
+  }
+}

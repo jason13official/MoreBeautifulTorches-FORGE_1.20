@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mbt:block/chiseled_nether_bricks_redstone_torch_off"
+    },
+    "lit=true": {
+      "model": "mbt:block/chiseled_nether_bricks_redstone_torch"
+    }
+  }
+}

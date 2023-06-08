@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mbt:block/lapis_lazuli_redstone_torch_off"
+    },
+    "lit=true": {
+      "model": "mbt:block/lapis_lazuli_redstone_torch"
+    }
+  }
+}

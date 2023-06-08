@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mbt:block/nether_bricks_torch"
+    }
+  }
+}

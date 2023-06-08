@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mbt:block/smooth_stone_redstone_torch_off"
+    },
+    "lit=true": {
+      "model": "mbt:block/smooth_stone_redstone_torch"
+    }
+  }
+}

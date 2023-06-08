@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mbt:block/amethyst_redstone_torch_off"
+    },
+    "lit=true": {
+      "model": "mbt:block/amethyst_redstone_torch"
+    }
+  }
+}

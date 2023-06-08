@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_torch",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "torch": "mbt:block/packed_mud_redstone_torch"
+  }
+}

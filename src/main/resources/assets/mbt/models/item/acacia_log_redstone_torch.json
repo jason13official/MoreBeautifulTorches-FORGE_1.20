@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mbt:block/acacia_log_redstone_torch"
+  }
+}
